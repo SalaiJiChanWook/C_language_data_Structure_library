@@ -1,0 +1,3 @@
+D:/DataStructureAndAlgorithams/Asiggnment 10/cmake-build-debug/CMakeFiles/Asiggnment_10.dir
+D:/DataStructureAndAlgorithams/Asiggnment 10/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/DataStructureAndAlgorithams/Asiggnment 10/cmake-build-debug/CMakeFiles/rebuild_cache.dir
